@@ -33,4 +33,4 @@ The StuRec files consists of the list of existing students of the respective pro
 The PT Timetable files include the core modules and electives of the respective programs.
 
 Conclusion:
-Genetic ALgorithm is a helpful tool in scheduling. With generation=100, single point crossover, tournament selection acheived better results.
+Genetic ALgorithm is a helpful tool in scheduling. With generation=100, single point crossover, tournament selection acheived better results. The final schedule is as shown the 'Result' file.
