@@ -28,5 +28,9 @@ i) Each module should not be offered more than twice throughout the five intakes
 
 Two experiemnts were conducted to compare the performance of the combination of tournament selection and single point crossover, as well as Stochastic Universal Sampling selection and two point crossover.
 
+Data:
+The StuRec files consists of the list of existing students of the respective programs with the list of modules taken.
+The PT Timetable files include the core modules and electives of the respective programs.
+
 Conclusion:
 Genetic ALgorithm is a helpful tool in scheduling. With generation=100, single point crossover, tournament selection acheived better results.
