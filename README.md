@@ -7,12 +7,19 @@ In order to adapt to the requirements given, 7 hard constraints and a soft const
 Hard constraints:
 
 i) Avoid same module offered in consecutive intakes and within same intake
+
 ii) All modules is offered at least once
+
 iii) The number of modules offered should be less than five
+
 iv) Every new and existing student must have a module to take in every intake.
+
 v) The modules offered in each intake should be different.
+
 vi) The schedule must have 5 intakes.
+
 vii) Student should not take more elective modules than required for their respective program. 
+
 viii) Student should only take the respective modules for either Business Intelligence (BI) or Data Engineering (DE) pathway.
 
 Soft Constraint:
