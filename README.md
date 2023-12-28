@@ -5,6 +5,7 @@ This study attempted to use Genetic Algorithms to generate schedule for three un
 In order to adapt to the requirements given, 7 hard constraints and a soft constraint were applied to the SE and AI programs while 8 hard constraints and a soft constraint for the DSBA program. 
 
 Hard constraints:
+
 i) Avoid same module offered in consecutive intakes and within same intake
 ii) All modules is offered at least once
 iii) The number of modules offered should be less than five
@@ -15,6 +16,7 @@ vii) Student should not take more elective modules than required for their respe
 viii) Student should only take the respective modules for either Business Intelligence (BI) or Data Engineering (DE) pathway.
 
 Soft Constraint:
+
 i) Each module should not be offered more than twice throughout the five intakes.
 
 Two experiemnts were conducted to compare the performance of the combination of tournament selection and single point crossover, as well as Stochastic Universal Sampling selection and two point crossover.
