@@ -1,5 +1,4 @@
-# Computational Intelligence Optimization
-Optimize University Part-time Programs Scheduling Using Genetic Algorithm
+## Optimize University Part-time Programs Scheduling Using Genetic Algorithm
 
 This study attempted to use Genetic Algorithms to generate schedule for three university programs namely the MSc in Data Science and Business Analytics (DSBA), Artitifical Intelligence (AI) and Software Engineering (SE). The schedule generated should cover modules offered for five intakes. 
 In order to adapt to the requirements given, 7 hard constraints and a soft constraint were applied to the SE and AI programs while 8 hard constraints and a soft constraint for the DSBA program. 
