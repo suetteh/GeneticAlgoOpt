@@ -12,7 +12,7 @@ Multiple hard constraints are required to be solved. Primarily, the schedule sho
 This project utilized real existing student records of the programs in APU with edited student names.
 
 - The attached StuRec files consists of the list of existing students of the respective programs with the list of modules taken.
-- 
+  
 - The  PT Timetable files include the core modules and electives of the respective programs.
 
 ### Tools:
