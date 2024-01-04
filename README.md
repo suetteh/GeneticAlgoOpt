@@ -8,7 +8,16 @@ Two experiemnts were conducted to compare the performance of the combination of 
 ### Challenges:
 Multiple hard constraints are required to be solved. Primarily, the schedule should ensure that each existing and new student has a module to take in each intake so that they are able to complete the programme within 2.5 years. However, a module should not run in consecutive intakes. Concurrently, the operational costs to the university should be minimize. Hence, only a maximum of 5 modules to be offered per intake for each programme. A further complication is that certain modules are offered in two or three programmes which means that these shared modules should be offered at the same intake. Lastly, the research methods module must be offered 3 times a year in January, May and October.
 
-### Library:
+### Data Source:
+This project utilized real existing student records of the programs in APU with edited student names.
+
+- The attached StuRec files consists of the list of existing students of the respective programs with the list of modules taken.
+- 
+- The  PT Timetable files include the core modules and electives of the respective programs.
+
+### Tools:
+This project was completed using R programming language. The library utilized include:
+
 Distributed Evolutionary Algorithms (DEAP)
 
 numpy
@@ -25,7 +34,4 @@ Genetic ALgorithm is a helpful tool in scheduling. With generation=100, single p
 ### Possible Improvement:
 In this study, GA was able to keep all hard constraint violations at 0. However, the cost spent by the university might be able to further minimize by maintaining each module to be run not more than twice. Grid search or random search can be applied for hyperparameter tuning. Besides that, other algorithm such as Particle Swarm Optimization (PSO) may further improve the outcome. 
 
-Data:
-The StuRec files consists of the list of existing students of the respective programs with the list of modules taken.
-The PT Timetable files include the core modules and electives of the respective programs.
 
