@@ -10,9 +10,13 @@ Multiple hard constraints are required to be solved. Primarily, the schedule sho
 
 ### Library:
 Distributed Evolutionary Algorithms (DEAP)
+
 numpy
+
 pandas
+
 itertools
+
 matplotlib 
 
 ### Conclusion:
