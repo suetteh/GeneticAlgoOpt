@@ -15,7 +15,7 @@ This project utilized real existing student records of the programs in APU with 
 - The  PT Timetable files include the core modules and electives of the respective programs.
 
 ### Tools:
-This project was completed using R programming language. The library utilized include:
+This project was completed using python programming language. The library utilized include:
 
 Distributed Evolutionary Algorithms (DEAP)
 
